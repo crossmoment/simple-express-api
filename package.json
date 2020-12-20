@@ -1,0 +1,29 @@
+{
+  "name": "api-sistem",
+  "version": "0.0.1",
+  "description": "api-sistem",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7",
+    "snekfetch": "^4.0.4"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "text-face"
+  ]
+}
